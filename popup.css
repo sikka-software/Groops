@@ -1,41 +1,41 @@
 body {
-  font-family: "IBM Plex Sans Arabic", sans-serif;
-  width: 300px;
-  height: 250px;
+	font-family: 'IBM Plex Sans Arabic', sans-serif;
+	width: 300px;
+	height: 250px;
 }
 
 #buttons {
-  font-family: "IBM Plex Sans Arabic", sans-serif;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  /* background-color: green; */
-  align-items: center;
-  width: 100%;
-  height: 100%;
+	font-family: 'IBM Plex Sans Arabic', sans-serif;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	/* background-color: green; */
+	align-items: center;
+	width: 100%;
+	height: 100%;
 }
 
 button {
-  font-size: 20px;
-  font-family: "IBM Plex Sans Arabic", sans-serif;
-  width: 100%;
-  border-radius: 10px;
-  border: none;
-  background-color: grey;
-  color: white;
-  padding: 10px;
+	font-size: 20px;
+	font-family: 'IBM Plex Sans Arabic', sans-serif;
+	width: 100%;
+	border-radius: 10px;
+	border: none;
+	background-color: grey;
+	color: white;
+	padding: 10px;
 }
 #lang {
-  width: 50px;
-  margin-bottom: 10px;
+	width: max-content;
+	margin-bottom: 10px;
 }
 
 button:hover {
-  font-family: "IBM Plex Sans Arabic", sans-serif;
-  background-color: blue;
-  color: white;
+	font-family: 'IBM Plex Sans Arabic', sans-serif;
+	background-color: blue;
+	color: white;
 }
 
 #group {
-  margin-bottom: 5px;
+	margin-bottom: 5px;
 }
